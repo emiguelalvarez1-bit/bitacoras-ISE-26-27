@@ -1,1 +1,0 @@
-- [juanluck](https://github.com/juanluck/practicas-ISE/)
